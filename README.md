@@ -3,8 +3,11 @@ Python code for various data mining techniques calculation
 
 # Model Evaluation and Selection Techniques- 
 TP -> True Positives
+
 TN -> True Negatives
+
 FP -> False Positives 
+
 FN -> False Negatives
 
 Confusion Matrix 
